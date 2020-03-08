@@ -1,0 +1,11 @@
+#include <sourcemod>
+#include <discord>
+
+public Plugin info = 
+{
+    name = "Nexus League: Clip Command",
+    author = "PandahChan",
+    description = "Allows players to type !clip or .clip and gives them a round input to save a clip from. Easier for moviemakers.",
+    version = "0.1",
+    url = "https://nexusleague.gg"
+};
